@@ -12,7 +12,7 @@ Entry for the [make.fun bounty "One-Liner Laugh Lab"](https://make.fun/bounty/u-
 
 The line:
 
-> I didn't eat your sock; I adopted it. It lives under the couch now and, frankly, it's thriving.
+> I didn't eat your sock; I adopted it. It lives under the couch and, frankly, it's thriving.
 
 ## Run it
 
